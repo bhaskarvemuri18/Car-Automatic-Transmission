@@ -1,5 +1,5 @@
 # Car-Automatic-Transmission
-descriptionDesigned an automated gear system simulator for a car which would offer various features as follows:
+Designed an automated gear system simulator for a car which would offer various features as follows:
 
 - Increase the speed of the car by a certain fixed amount
 - Decrease the speed of the car by a certain fixed amount
